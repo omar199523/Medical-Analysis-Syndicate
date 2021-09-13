@@ -1,0 +1,14 @@
+.data-header{
+    display: flex;
+    justify-content: space-between;
+}
+.one-member{
+    display: flex;
+    justify-content: space-between;
+}
+.data-header *{
+    flex: 5;
+}
+.one-member *{
+    flex: 5;
+}

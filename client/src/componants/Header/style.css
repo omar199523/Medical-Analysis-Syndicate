@@ -1,0 +1,26 @@
+.main-header{
+    padding: 7px 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #035C6E;
+    color:white
+
+}
+.main-header div{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-header button{
+    width: auto;
+    height: 40px;
+}
+.logo-img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left:20px ;
+}
